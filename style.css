@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-family: 'Hahmlet', serif;
+    font-size: 40px;
+    font-weight: bolder;
+    color: gray;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    margin-left:5% ;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+#first-section-height{
+    height: 500px;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.button-style{
+    text-decoration: none;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, orange, red);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 15px;    
+}
+p{
+    color: grey;
+    padding-bottom: 40px;
+}
+h2{
+    font-size: 40px;
+    color: gray;
+}
+#second-section{
+    background-image:url(images/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 330px;
+    padding-bottom: 150px;
+}
+#second-section img{
+    width: 50%;
+}
+.center-align{
+    text-align: center;
+}
+.recipie-styles{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#fourth-section{
+    height: 500px;
+    padding-left: 2%;
+    padding-bottom: 150px;
+}
+.third-width{
+    width: 25%;
+    float: left;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 15px;
+    box-shadow: 15px 10px 50px gray;
+}
+.third-width img{
+    width: 100%;
+}
+.third-width p{
+    padding-bottom: 0px;
+}
+#footer-section{
+    height: 250px;
+    padding-top: 20px;
+    background-color: black;
+}
+#footer-section h2{
+    font-size: 30px;
+}
+.subscriber{
+    width: 25%;
+    float: left;
+    box-shadow: 15px 10px 30px gray;
+    border-radius: 15px;
+    margin-right: 2%;
+    text-align: center;
+}
+#subscriber-section{
+    height: 200px;
+    padding-bottom: 150px;
+    padding-left: 10%;
+    margin-left: 8%;
+
+}
+#youtube-color{
+    background-color: red;
+}
+#instagram-color{
+    background-color: #DD2A7B;
+}
+#twitter-color{
+    background-color: #08a0e9;
+}
+#subscriber-section h1{
+    color: white;
+}
+#subscriber-section p{
+    color: white;
+}
+h3{
+    font-size: 30px;
+}
+.half-div{
+    width: 40%;
+    float: left;
+    box-shadow: 15px 10px 40px gray;
+    border-radius: 15px;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+}
+.half-div img{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#extra-section{
+    height: 500px;
+    padding-bottom: 150px;
+    
+    margin-left: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-right: 10%;
+}
